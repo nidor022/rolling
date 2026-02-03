@@ -34,3 +34,7 @@ https://rolling-tau.vercel.app/
   Media Query를 활용하여 데스크탑, 태블릿, 모바일 전 기기에 최적화된 레이아웃 제공.
 
 5. 사용자 이탈 방지를 위한 커스텀 404 페이지 구현
+
+
+
+<img width="1261" height="817" alt="rolling" src="https://github.com/user-attachments/assets/fbed652c-abf9-4648-b968-31e29731fcab" />
