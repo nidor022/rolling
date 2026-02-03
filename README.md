@@ -2,6 +2,9 @@
 
 https://rolling-tau.vercel.app/
 
+<br/>
+<br/>
+<br/>
 
 ## 🛠 사용 기술
 
@@ -14,6 +17,9 @@ https://rolling-tau.vercel.app/
   <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black">
 </div>
 
+<br/>
+<br/>
+<br/>
 
 ## 📄 개발 내용
 
@@ -35,6 +41,10 @@ https://rolling-tau.vercel.app/
 
 5. 사용자 이탈 방지를 위한 커스텀 404 페이지 구현
 
+<br/>
+<br/>
+<br/>
 
+## 랜딩 페이지
 
 <img width="1261" height="817" alt="rolling" src="https://github.com/user-attachments/assets/fbed652c-abf9-4648-b968-31e29731fcab" />
